@@ -31,6 +31,10 @@ img {
   font-size: larger;
 }
 
+#tribute-info figure {
+  text-align: center;
+}
+
 #speech {
   padding: 25px;
   border: 1px solid burlywood;
